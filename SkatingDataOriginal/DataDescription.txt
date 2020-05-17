@@ -1,0 +1,12 @@
+ 
+ED-00006: Skate Data
+This dataset contains figure skating rankings from various competitions during the 1998 season including the World Juniors, World Championships, and the Olympics. These data sets generally have 10-25 candidates (skaters) and 8-10 judges (voters).
+
+The candidates (skaters) are ordered such that the first candidate skated first, and on down the list. We have maintained this order as presented in the original versions of this dataset.
+
+Required Citations
+None.
+
+Selected Citations Using This Dataset
+RangeVoting.com Analysis of the Skate Data. Warren D. Smith. Available at RangeVoting.com (Link), 2000.
+OBO: A Detailed Analysis. Sandra J. Loosemore. Personal Website and Manuscript (Link), 1998.
